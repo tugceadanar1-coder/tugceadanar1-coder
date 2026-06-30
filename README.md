@@ -1,6 +1,6 @@
 # Hi, I'm Tuğçe
 
-> Building explainable computational methods for engineering.
+> *Building explainable computational methods for engineering.*
 
 I am a **B.Eng. Mechanical Engineering** graduate with a strong interest in scientific computing, numerical methods, and computational engineering.
 
@@ -13,9 +13,10 @@ I am a **B.Eng. Mechanical Engineering** graduate with a strong interest in scie
 - Aerodynamics
 - Python
 
-## Current Project
 
-🔹 [Least-Squares Based Aerodynamic Pressure Curve Matching](https://github.com/tugceadanar1-coder/naca-cp-matching)
+## Projects
+
+- 🔹 [Least-Squares Based Aerodynamic Pressure Curve Matching](https://github.com/tugceadanar1-coder/naca-cp-matching)
 
 ## Currently Learning
 
