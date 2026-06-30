@@ -1,28 +1,28 @@
-# Hi, I'm Tuğçe 👋
+# Hi, I'm Tuğçe
 
-I'm a **B.Eng. Mechanical Engineering** graduate interested in scientific computing, numerical methods, and computational engineering.
+> Building explainable computational methods for engineering.
+
+I am a **B.Eng. Mechanical Engineering** graduate with a strong interest in scientific computing, numerical methods, and computational engineering.
 
 ## Research Interests
 
 - Scientific Computing
 - Numerical Methods
-- Python
-- Aerodynamics
+- Computational Engineering
 - High Performance Computing
+- Aerodynamics
+- Python
 
 ## Current Project
 
-🔹 Least-Squares Based Aerodynamic Pressure Curve Matching
-
-GitHub Repository:
-https://github.com/tugceadanar1-coder/naca-cp-matching
+🔹 [Least-Squares Based Aerodynamic Pressure Curve Matching](https://github.com/tugceadanar1-coder/naca-cp-matching)
 
 ## Currently Learning
 
-- Scientific Python
+- Advanced Scientific Python
 - Numerical Simulation
 - High Performance Computing
 
 ## Long-Term Goal
 
-To contribute to research in scientific computing and computational engineering through transparent, explainable, and reproducible methods.
+My long-term goal is to contribute to research in scientific computing by developing transparent, explainable, and reproducible computational methods for engineering applications.
